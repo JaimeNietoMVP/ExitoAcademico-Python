@@ -1,2 +1,3 @@
-# Sue-oEnLosEstudiantes-Python
-Vamos a realizar un estudio sobre como afecta el sueño, sexo, estudios de los padres... en los estudiantes. Emplearemos Python.
+# ÉxitoAcadémicoEnLosEstudiantes-Python
+En este cuaderno, empleando redes neuronales y distintas librerías y enfoques, trato de crear modelos que nos ayuden a preveer el éxito o fracaso de los estudiantes en función de características conocidas, como pueden ser los estudios de padres, horas de sueño o el éxito trimestral en la resolución de sus distintas asignaturas. Este modelo podría ser una paso para la detección temprana de jóvenes con problemas en sus estudios. De este modo, mediante tutorías u otro tipo de ayudas ofrecidas por los centros de enseñanza, podría ser una herramienta mas que colabore en la reducción de la tasa de abandono en las instituciones educativas que hagan uso de ellos.
+En concreto, se usan distintos tipos de algoritmos para abordar la resolución del problema que van desde la utilización de modelos sencillos a redes neuronales con tensorflow o autoML (con H2O).
